@@ -15,7 +15,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ## 💬 About me ...
 
-<img align="right" width="350" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="350" alt="coding gif" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🌍 I'm based in **Ahmedabad, India**
 - 🔭 Building a portfolio across **Power BI · Python · SQL · Excel**
@@ -36,16 +36,20 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <table>
   <tr>
     <td align="center" width="180">
-      <img width="100" alt="excel" src="https://github.com/user-attachments/assets/9f09dfb2-7ac7-45b0-bfdc-7ffd0900c5bd" />
+      <img width="100" alt="excel" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
+      <br/><b>Excel</b>
     </td>
     <td align="center" width="180">
-      <img width="100" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
+      <img width="100" alt="power bi" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+      <br/><b>Power BI</b>
     </td>
     <td align="center" width="180">
-      <img width="100" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
+      <img width="100" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+      <br/><b>Python</b>
     </td>
     <td align="center" width="180">
-      <img width="100" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
+      <img width="100" alt="sql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
+      <br/><b>SQL</b>
     </td>
   </tr>
 </table>
