@@ -14,10 +14,9 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ## 💬 About me ...
 
-<img align="right" width="380" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="340" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 - 🌍 I'm based in Ahmedabad, India
-- 💼 Data Intern at **Red & White Skill Education**
 - 🔭 Building a portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboards
 - 🤖 I'm learning **AI & ML** at Red & White Multimedia Institute
@@ -69,5 +68,3 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
