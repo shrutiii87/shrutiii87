@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! It's Shruti Bhawsar! 👋
+#  Hey !  It's Shruti Bhawsar! 👋
 
 ### Data Analyst
 
