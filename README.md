@@ -69,3 +69,13 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<div>
+  
+# Hey! It's Shruti Bhawsar! 👋
+
+### Data Analyst
+
+</div>
