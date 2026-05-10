@@ -33,31 +33,19 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
-
-<img width="580" height="430" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
-<img width="497" height="502" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
-<img width="693" height="360" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
-
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://github.com/user-attachments/assets/9f09dfb2-7ac7-45b0-bfdc-7ffd0900c5bd" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="65" height="65" alt="Excel"/>
       <br/><b>Excel</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png" width="65" height="65" alt="Power BI"/>
-      <br/><b>Power BI</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/512px-Python-logo-notext.svg.png" width="65" height="65" alt="Python"/>
-      <br/><b>Python</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="65" height="65" alt="SQL"/>
-      <br/><b>SQL</b>
     </td>
   </tr>
 </table>
+
+<img width="500" height="500" alt="excel" src="https://github.com/user-attachments/assets/9f09dfb2-7ac7-45b0-bfdc-7ffd0900c5bd" />
+<img width="580" height="430" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
+<img width="497" height="502" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
+<img width="693" height="360" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
 
 </div>
 
