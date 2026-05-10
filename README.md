@@ -75,8 +75,8 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
   
-# Hey! It's Shruti Bhawsar! 👋
+# Hope you like it
 
-### Data Analyst
+### Thankyou . 
 
 </div>
