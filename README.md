@@ -79,8 +79,6 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical)
 
-
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
