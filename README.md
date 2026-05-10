@@ -42,7 +42,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
       <img width="80" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
     </td>
     <td align="center" width="180">
-      <img width="80" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
+      <img width="100" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
     </td>
     <td align="center" width="180">
       <img width="80" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
