@@ -73,7 +73,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
 <div align="center">
 
