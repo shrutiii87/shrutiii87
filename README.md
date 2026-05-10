@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-![heading](https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&fontSize=60&fontAlignY=50&desc=Data+Analyst&descAlignY=75&descColor=00BFFF&descSize=20&text=Hey!+It's+Shruti+Bhawsar!&animation=fadeIn&fontFamily=Orbitron)
+![heading](https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&fontSize=60&fontAlignY=50&desc=Data+Analyst&descAlignY=75&descColor=00BFFF&descSize=20&text=Hey!+It's+Shruti+Bhawsar!&animation=fadeIn&fontFamily=Dancing+Script)
 
 <div align="center">
 
