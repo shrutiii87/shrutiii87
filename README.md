@@ -21,7 +21,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 - 🌍 I'm based in Ahmedabad, India
 - 🔭 Building a portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboards
-- 🤖 I'm learning **AI & ML** at Red & White Multimedia Institute
+- 🤖 I'm learning **AI & ML & data science** at Red & White Multimedia Institute 
 - 🎯 I'm looking to land a role in **BFSI / Healthcare / Retail**
 - 💬 Ask me about `Power BI` , `Python` , `SQL` , `Excel` , `DAX`
 - ☕ Powered by chai (twice a day, no exceptions)
