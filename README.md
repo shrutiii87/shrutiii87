@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<div align="center">
 
-![heading](https://capsule-render.vercel.app/api?type=transparent&color=0:1a1a2e,100:0f3460&height=80&text=Hey!%20It's%20Shruti%20Bhawsar!&fontColor=#F3FA66&fontSize=45&fontAlign=50&fontAlignY=50&desc=&animation=fadeIn&fontFamily=serif)
+# Hey! It's Shruti Bhawsar!
+
+</div>
 
 <div align="center">
 
@@ -14,9 +16,10 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ## 💬 About me ...
 
-<img align="right" width="340" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="360" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 - 🌍 I'm based in Ahmedabad, India
+- 💼 Data Intern at **Red & White Skill Education**
 - 🔭 Building a portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboards
 - 🤖 I'm learning **AI & ML** at Red & White Multimedia Institute
@@ -66,5 +69,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
+
