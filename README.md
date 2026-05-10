@@ -33,6 +33,11 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
+<img width="500" height="500" alt="excel" src="https://github.com/user-attachments/assets/9f09dfb2-7ac7-45b0-bfdc-7ffd0900c5bd" />
+<img width="580" height="430" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
+<img width="497" height="502" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
+<img width="693" height="360" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
+
 <table>
   <tr>
     <td align="center" width="150">
