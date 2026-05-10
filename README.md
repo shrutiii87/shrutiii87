@@ -1,6 +1,8 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&animation=fadeIn)
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-![heading](https://capsule-render.vercel.app/api?type=transparent&fontColor=ff6eb4&fontSize=60&fontAlignY=50&desc=Data+Analyst&descAlignY=75&descColor=ffffff&descSize=20&text=Hey!+It's+Shruti+Bhawsar!&animation=fadeIn&fontFamily=Pacifico)
+![heading](https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&fontSize=60&fontAlignY=50&desc=Data+Analyst&descAlignY=75&descColor=00BFFF&descSize=20&text=Hey!+It's+Shruti+Bhawsar!&animation=fadeIn&fontFamily=Pacifico)
 
 <div align="center">
 
@@ -65,5 +67,8 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
