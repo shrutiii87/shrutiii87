@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey! It's Shruti Bhawsar! 👋
-### Data Analyst · Dashboard Builder · Chai Enthusiast ☕
+### Data Analyst · Dashboard Builder 
 
 </div>
 
@@ -45,7 +45,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
       <img width="150" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
     </td>
     <td align="center" width="180">
-      <img width="150" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
+      <img width="120" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
     </td>
   </tr>
 </table>
