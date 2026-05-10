@@ -1,8 +1,8 @@
-<div align="center">
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&animation=fadeIn)
 
-# Hey! It's Shruti Bhawsar!
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-</div>
+![heading](https://capsule-render.vercel.app/api?type=transparent&color=0:1a1a2e,100:0f3460&height=80&text=Hey!%20It's%20Shruti%20Bhawsar!&fontColor=38bdf8&fontSize=45&fontAlign=50&fontAlignY=50&desc=&animation=fadeIn&fontFamily=Pacifico)
 
 <div align="center">
 
@@ -16,7 +16,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ## 💬 About me ...
 
-<img align="right" width="360" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="380" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 - 🌍 I'm based in Ahmedabad, India
 - 💼 Data Intern at **Red & White Skill Education**
@@ -69,7 +69,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
