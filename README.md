@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey! It's Shruti Bhawsar! 👋
-### Data Analyst · Dashboard Builder 
+### Data Analyst · Dashboard Builder · Chai Enthusiast ☕
 
 </div>
 
@@ -35,17 +35,17 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img width="100" alt="excel" src="https://github.com/user-attachments/assets/9f09dfb2-7ac7-45b0-bfdc-7ffd0900c5bd" />
+    <td align="center">
+      <img width="120" height="100" alt="excel" src="https://github.com/user-attachments/assets/9f09dfb2-7ac7-45b0-bfdc-7ffd0900c5bd" />
     </td>
-    <td align="center" width="180">
-      <img width="100" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
+    <td align="center">
+      <img width="120" height="100" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
     </td>
-    <td align="center" width="180">
-      <img width="100" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
+    <td align="center">
+      <img width="120" height="100" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
     </td>
-    <td align="center" width="180">
-      <img width="100" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
+    <td align="center">
+      <img width="120" height="100" alt="sql" src="https://github.com/user-attachments/assets/67154876-029d-4570-a285-c111df3f2c45" />
     </td>
   </tr>
 </table>
@@ -77,12 +77,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
