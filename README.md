@@ -1,12 +1,10 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&animation=fadeIn)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+![heading](https://capsule-render.vercel.app/api?type=transparent&fontColor=ff6eb4&fontSize=60&fontAlignY=50&desc=Data+Analyst&descAlignY=75&descColor=ffffff&descSize=20&text=Hey!+It's+Shruti+Bhawsar!&animation=fadeIn&fontFamily=Pacifico)
+
 <div align="center">
-
-# Hey! It's Shruti Bhawsar!
-
-</div>
-
-<div align="center">
-
-**Data Analyst**
 
 I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoys turning raw data into meaningful stories and building interactive dashboards. Problem-solving mindset with a goal to deliver actionable insights from data. Love to explore new datasets and find patterns that matter.
 
@@ -16,7 +14,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ## 💬 About me ...
 
-<img align="right" width="360" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="380" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 - 🌍 I'm based in Ahmedabad, India
 - 💼 Data Intern at **Red & White Skill Education**
@@ -73,3 +71,4 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
