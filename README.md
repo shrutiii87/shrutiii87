@@ -5,7 +5,7 @@
 # Hey! It's Shruti Bhawsar! 👋
 
 ### Data Analyst
-  
+
 </div>
 
 <div align="center">
@@ -57,9 +57,10 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
@@ -73,3 +74,5 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
