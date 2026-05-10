@@ -33,15 +33,6 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="65" height="65" alt="Excel"/>
-      <br/><b>Excel</b>
-    </td>
-  </tr>
-</table>
-
 <img width="500" height="500" alt="excel" src="https://github.com/user-attachments/assets/9f09dfb2-7ac7-45b0-bfdc-7ffd0900c5bd" />
 <img width="580" height="430" alt="power bi" src="https://github.com/user-attachments/assets/8de356b2-941e-46c5-ba90-f3007a724ed3" />
 <img width="497" height="502" alt="python" src="https://github.com/user-attachments/assets/8cc96ce1-17e1-4f7a-b390-1d06030d7f2a" />
