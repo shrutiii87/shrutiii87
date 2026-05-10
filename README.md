@@ -88,7 +88,6 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
 
