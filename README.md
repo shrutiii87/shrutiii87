@@ -11,7 +11,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 </div>
 
-<img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png](https://github.com/shrutiii87/python-PR-s/blob/main/divider.svg)" width="100%"/>
+<img src="(https://github.com/shrutiii87/python-PR-s/blob/main/divider.svg)" width="100%"/>
 
 ## 💬 About me ...
 
