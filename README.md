@@ -17,10 +17,11 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <img align="right" width="300" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
-- 🌍 I'm based in **Ahmedabad, India**
-- 📊 Deep into **DAX**, **data modeling**, and interactive dashboards
-- 🤖 I'm learning **AI & ML & data science** at Red & White Multimedia Institute
-- 💬 Ask me about `Power BI` `Python` `SQL` `Excel` `DAX`
+- 🌍 I'm based in **Ahmedabad, India** .
+- 📊 Deep into **DAX**, **data modeling**, and interactive dashboards .
+- 🤖 I'm learning **AI & ML & data science** at Red & White Multimedia Institute .
+- 💬 Ask me about `Power BI` `Python` `SQL` `Excel` `DAX` .
+- 🌟 I can turn raw data into clear dashboards and actionable insights and storytelling .
 
 <br clear="right"/>
 
