@@ -87,6 +87,9 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shruti_Bhawsar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-bhawsar-5030bb37a/)
+
+
 </div>
 
 <img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
