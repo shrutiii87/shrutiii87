@@ -13,6 +13,9 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
+<img src="https://github.com/user-attachments/assets/cc7ae607-bb36-4705-8ba1-4c825689cba9" width="100%" />
+
+
 ## 💬 About me ...
 
 <img align="right" width="300" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
