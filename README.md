@@ -52,7 +52,7 @@ me = ShrutiBhawsar()
 ```
 </td>
 <td>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjZGY1Y2ZscWN2bWg4MjU1dHlnNXZmcmo0Zm4yd2N2a2ltYWF0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align = right ,src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjZGY1Y2ZscWN2bWg4MjU1dHlnNXZmcmo0Zm4yd2N2a2ltYWF0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </td>
 </tr>
 </table>
