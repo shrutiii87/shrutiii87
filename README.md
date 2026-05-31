@@ -13,6 +13,8 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
 
+---
+
 <table>
 <tr>
 
@@ -54,23 +56,13 @@ me = ShrutiBhawsar()
 </td>
 
 <td width="45%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450">
 </td>
 
 </tr>
 </table>
 
-## 💬 About me ...
-
-<img align="right" width="300" alt="coding gif" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-- 🌍 I'm based in **Ahmedabad, India** .
-- 📊 Deep into **DAX**, **data modeling**, and interactive dashboards .
-- 🤖 I'm learning **AI & ML & data science** at Red & White Multimedia Institute .
-- 💬 Ask me about `Power BI` `Python` `SQL` `Excel` `DAX` .
-- 🌟 I can turn raw data into clear dashboards and actionable insights and storytelling .
-
-<br clear="right"/>
+---
 
 <img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
 
