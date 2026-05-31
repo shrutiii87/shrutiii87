@@ -17,7 +17,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <table>
 <tr>
 
-<td width="40%">
+<td width="25%">
 
 ```python
 
