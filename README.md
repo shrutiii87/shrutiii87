@@ -23,8 +23,7 @@
 
 ---
 
-<img align="right" width="300" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
-
+<img align="right" width="300" alt="coding gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjZGY1Y2ZscWN2bWg4MjU1dHlnNXZmcmo0Zm4yd2N2a2ltYWF0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🧠 About Me
 
