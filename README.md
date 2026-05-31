@@ -60,7 +60,7 @@ me = ShrutiBhawsar()
 ```
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
