@@ -100,9 +100,9 @@ me = ShrutiBhawsar()
 
 <div align="center">
 
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api??user=shrutiii87&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/??user=shrutiii87&theme=radical&hide_border=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical&hide_border=true)
 
