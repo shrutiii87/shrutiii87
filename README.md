@@ -94,6 +94,8 @@ me = ShrutiBhawsar()
 
 ## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/shrutiii87/shrutiii87/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📊 GitHub Stats
