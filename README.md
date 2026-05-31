@@ -55,6 +55,8 @@ me = ShrutiBhawsar()
 
 ## ⚡ Tech Arsenal
 
+<div align="center">
+
 **Analytics & Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -86,6 +88,8 @@ me = ShrutiBhawsar()
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -102,10 +106,6 @@ me = ShrutiBhawsar()
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=radical&hide_border=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical&hide_border=true)
 
