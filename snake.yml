@@ -1,28 +1,21 @@
-name: Generate Snake Animation
+import { generateSnakeAnimation } from "generate-snake-animation";
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+const outputs = [
+  {
+    format: "svg",
+    drawOptions: {
+      // ..
+    },
+  },
+];
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+const results = await generateSnakeAnimation(
+  {
+    platform: "github", // supports github, gitlab and forgejo (codeberg)
+    username: "platane",
+    githubToken: process.env.GITHUB_TOKEN,
+  },
+  outputs,
+);
 
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: shrutiii87
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+fs.writeFileSync("snake.svg", results[0]);
