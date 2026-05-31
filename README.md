@@ -92,19 +92,9 @@ me = ShrutiBhawsar()
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/shrutiii87/shrutiii87/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api??user=shrutiii87&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/??user=shrutiii87&theme=radical&hide_border=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical&hide_border=true)
 
