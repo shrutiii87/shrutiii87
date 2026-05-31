@@ -27,7 +27,7 @@
 
 </td>
 <td>
-<img width="300" height="300" alt="image" align=right src="https://github.com/user-attachments/assets/1d00b0db-e15d-4bb4-abe1-db9148fc5d37" />
+<img width="250" height="300" alt="image" align=right src="https://github.com/user-attachments/assets/1d00b0db-e15d-4bb4-abe1-db9148fc5d37" />
 
 </td>
 </tr>
