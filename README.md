@@ -95,17 +95,22 @@ me = ShrutiBhawsar()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
-
-> ⚠️ To enable the snake animation, add this GitHub Action to your repo:
-> `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=radical&hide_border=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical&hide_border=true)
 
@@ -115,7 +120,7 @@ me = ShrutiBhawsar()
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutiii87&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutiii87&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
