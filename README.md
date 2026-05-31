@@ -95,7 +95,7 @@ me = ShrutiBhawsar()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/shrutiii87/shrutiii87/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 > ⚠️ To enable the snake animation, add this GitHub Action to your repo:
