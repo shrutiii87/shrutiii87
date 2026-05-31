@@ -13,12 +13,11 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 <img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
 
----
 
 <table>
 <tr>
 
-<td width="55%">
+<td width="40%">
 
 ```python
 
