@@ -14,54 +14,17 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
 
 
-<table>
-<tr>
+## 💬 About me ...
 
-<td width="25%">
+<img align="right" width="300" alt="coding gif" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```python
+- 🌍 I'm based in **Ahmedabad, India** .
+- 📊 Deep into **DAX**, **data modeling**, and interactive dashboards .
+- 🤖 I'm learning **AI & ML & data science** at Red & White Multimedia Institute .
+- 💬 Ask me about `Power BI` `Python` `SQL` `Excel` `DAX` .
+- 🌟 I can turn raw data into clear dashboards and actionable insights and storytelling .
 
-class ShrutiBhawsar:
-
-    def __init__(self):
-        self.name       = "Shruti Bhawsar"
-        self.role       = "Data Analyst"
-        self.location   = "Ahmedabad, India"
-        self.skills     = ["Power BI", "Python", "SQL", "Excel"]
-        self.learning   = "AI & Machine Learning"
-
-    def current_focus(self):
-        return [
-            "Interactive Dashboards",
-            "Data Storytelling",
-            "DAX & Data Modeling",
-            "Business Insights"
-        ]
-
-    def ask_me_about(self):
-        return [
-            "Power BI",
-            "Python",
-            "SQL",
-            "Excel"
-        ]
-
-    def fun_fact(self):
-        return "I turn data into decisions 📈"
-
-me = ShrutiBhawsar()
-```
-
-</td>
-
-<td width="35%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250">
-</td>
-
-</tr>
-</table>
-
----
+<br clear="right"/>
 
 <img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
 
