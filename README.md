@@ -21,7 +21,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 <table>
 <tr>
 
-<td width="32%">
+<td width="150%">
 
 ```python
 class ShrutiBhawsar:
@@ -61,7 +61,7 @@ me = ShrutiBhawsar()
 </table>
 <br clear="right"/>
 
-<img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="100%" />
+<img alt="color_strip_thin" src="https://github.com/user-attachments/assets/e7281a27-220b-4949-a82b-5d3ebf1ef22c" width="50%" />
 
 ## 🛠️ Core Tools
 
