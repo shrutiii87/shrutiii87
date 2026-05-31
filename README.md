@@ -110,9 +110,9 @@ me = ShrutiBhawsar()
 
 ### 💬 Connect & Collab
 
-*"I don't just read data — I make data speak."*
-
 <div align="center">
+
+*"I don't just read data — I make data speak."*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-bhawsar-5030bb37a/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
