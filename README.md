@@ -39,7 +39,8 @@ class ShrutiBhawsar:
         self.name        = "Shruti Bhawsar"
         self.role        = "Data Analyst & BI Developer"
         self.institute   = "Red & White Multimedia Institute — AI, ML & Data Science"
-        self.location    = "Ahmedabad, India 🇮🇳"
+        self.University  = "BCA student at Swarrnim Startup & Innovation University"
+        self.location    = "Ahmedabad, India"
         self.pronouns    = "she/her"
 
     def current_focus(self):
