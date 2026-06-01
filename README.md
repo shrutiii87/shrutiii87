@@ -60,12 +60,6 @@ me = ShrutiBhawsar()
 ```
 ---
 
-### Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -126,6 +120,14 @@ me = ShrutiBhawsar()
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutiii87&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ---
 
