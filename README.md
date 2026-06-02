@@ -107,6 +107,18 @@ me = ShrutiBhawsar()
 
 ---
 
+## 🏆 Certifications
+
+
+
+| Certificate | Issuer | Date | Link |
+|-------------|--------|------|------|
+| 📊 Data Analytics Job Simulation | Deloitte × Forage | June 2026 | [![View](https://img.shields.io/badge/View-Certificate-green?style=flat-square)](https://github.com/shrutiii87/shrutiii87/blob/main/certificates/Deloitte_certificate.pdf) |
+| 🐍 Data Analysis Using Python | IBM | June 2026 | [![View](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/shrutiii87/shrutiii87/blob/main/certificates/IBM_certificate.pdf) |
+| 📈 Business Analytics with Excel | Simplilearn | June 2026 | [![View](https://img.shields.io/badge/View-Certificate-orange?style=flat-square)](https://github.com/shrutiii87/shrutiii87/blob/main/certificates/simple_learn.pdf) |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
