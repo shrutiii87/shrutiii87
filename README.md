@@ -133,9 +133,8 @@ me = ShrutiBhawsar()
 ### Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
-
 ---
 
 ### 💬 Connect & Collab
