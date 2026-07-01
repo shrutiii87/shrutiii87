@@ -145,14 +145,14 @@ me = ShrutiBhawsar()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_dark)
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_white" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_dark)
 
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_dark)
-  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=f4a623&text_color=FFFFFF" />
+
+</div>
