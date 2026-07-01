@@ -150,7 +150,9 @@ me = ShrutiBhawsar()
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_white" />
 
 </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_dark)
   
