@@ -148,37 +148,71 @@ me = ShrutiBhawsar()
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
-<a href="https://github.com/shrutiii87/Zomato_powerbi_project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=Zomato_powerbi_project&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+
+## 🍽️ Zomato Power BI Dashboard
+
+> **Power BI | SQL | Excel**
+
+📊 Restaurant analytics dashboard with KPIs, ratings, cuisines, cities and customer insights.
+
+🏷️ `Power BI` `SQL` `DAX` `Excel`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/Zomato_powerbi_project)
+
 </td>
 
-<td width="50%">
-<a href="https://github.com/shrutiii87/phonepe_project-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=phonepe_project-&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+
+## 📱 PhonePe Dashboard
+
+> **Power BI | Python**
+
+💳 Interactive dashboard analyzing transactions, states, districts and digital payments.
+
+🏷️ `Power BI` `Python` `SQL`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/phonepe_project-)
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%">
-<a href="https://github.com/shrutiii87/Derivable-Judgement">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=Derivable-Judgement&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+
+## 📈 Derivable Judgement
+
+> **Statistics | Python**
+
+📊 Probability distributions, hypothesis testing and statistical analysis using Python.
+
+🏷️ `Python` `Statistics` `NumPy` `SciPy`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/Derivable-Judgement)
+
 </td>
 
-<td width="50%">
-<a href="https://github.com/shrutiii87/Sales-Uplift">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=Sales-Uplift&theme=github_dark&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+
+## 💹 Sales Uplift
+
+> **Analytics | Power BI**
+
+📈 Business intelligence dashboard focused on sales trends, revenue and performance analysis.
+
+🏷️ `Power BI` `Excel` `SQL`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/Sales-Uplift)
+
 </td>
 
 </tr>
