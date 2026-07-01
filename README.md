@@ -147,6 +147,3 @@ me = ShrutiBhawsar()
 
 
   
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=f4a623&currStreakLabel=00D9FF)
-
-</div>
