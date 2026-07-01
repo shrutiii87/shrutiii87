@@ -147,8 +147,6 @@ me = ShrutiBhawsar()
 
 ---
 
----
-
 # 🚀 Featured Projects
 
 <table>
@@ -158,13 +156,18 @@ me = ShrutiBhawsar()
 
 ## 🍽️ Zomato Power BI Dashboard
 
-> **Power BI | SQL | Excel**
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+</p>
 
 📊 Restaurant analytics dashboard with KPIs, ratings, cuisines, cities and customer insights.
 
-🏷️ `Power BI` `SQL` `DAX` `Excel`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/Zomato_powerbi_project)
+<a href="https://github.com/shrutiii87/Zomato_powerbi_project">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -172,13 +175,18 @@ me = ShrutiBhawsar()
 
 ## 📱 PhonePe Dashboard
 
-> **Power BI | Python**
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 💳 Interactive dashboard analyzing transactions, states, districts and digital payments.
 
-🏷️ `Power BI` `Python` `SQL`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/phonepe_project-)
+<a href="https://github.com/shrutiii87/phonepe_project-">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -190,13 +198,18 @@ me = ShrutiBhawsar()
 
 ## 📈 Derivable Judgement
 
-> **Statistics | Python**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge"/>
+</p>
 
 📊 Probability distributions, hypothesis testing and statistical analysis using Python.
 
-🏷️ `Python` `Statistics` `NumPy` `SciPy`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/Derivable-Judgement)
+<a href="https://github.com/shrutiii87/Derivable-Judgement">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -204,13 +217,18 @@ me = ShrutiBhawsar()
 
 ## 💹 Sales Uplift
 
-> **Analytics | Power BI**
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 📈 Business intelligence dashboard focused on sales trends, revenue and performance analysis.
 
-🏷️ `Power BI` `Excel` `SQL`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87/Sales-Uplift)
+<a href="https://github.com/shrutiii87/Sales-Uplift">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
