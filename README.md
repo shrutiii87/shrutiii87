@@ -148,5 +148,9 @@ me = ShrutiBhawsar()
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_dark)
 
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=github_dark" />
+
+</div>
   
