@@ -146,3 +146,42 @@ me = ShrutiBhawsar()
 </div>
 
 
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<a href="https://github.com/shrutiii87/Zomato_powerbi_project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=Zomato_powerbi_project&theme=github_dark&hide_border=true" />
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/shrutiii87/phonepe_project-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=phonepe_project-&theme=github_dark&hide_border=true" />
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<a href="https://github.com/shrutiii87/Derivable-Judgement">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=Derivable-Judgement&theme=github_dark&hide_border=true" />
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/shrutiii87/Sales-Uplift">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutiii87&repo=Sales-Uplift&theme=github_dark&hide_border=true" />
+</a>
+</td>
+
+</tr>
+</table>
+
+---
