@@ -146,7 +146,7 @@ me = ShrutiBhawsar()
 </div>
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="165" alt="Top Languages" /> </div> <div align="center">
+  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=f4a623&currStreakLabel=00D9FF)
 
 </div>
