@@ -88,7 +88,7 @@ me = ShrutiBhawsar()
 ![Statistics](https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge&logo=scipy&logoColor=white)
 ![Mathematics](https://img.shields.io/badge/Mathematics-4CAF50?style=for-the-badge&logo=wolfram&logoColor=white)
 
-## 🤖 AI & Productivity Tools
+**🤖 AI & Productivity Tools**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
