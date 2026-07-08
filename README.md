@@ -195,11 +195,6 @@ me = ShrutiBhawsar()
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" />
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="165"/>
 
 </div>
@@ -210,10 +205,6 @@ me = ShrutiBhawsar()
 
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutiii87&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutiii87&theme=tokyonight" />
-</p>
 
 ---
 
