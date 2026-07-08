@@ -220,6 +220,68 @@ me = ShrutiBhawsar()
 
 ---
 
+## 🚀 Core Competencies
+
+<table align="center">
+<tr>
+<th width="35%">Skill Area</th>
+<th width="65%">Expertise</th>
+</tr>
+
+<tr>
+<td>📊 <b>Business Intelligence</b></td>
+<td>Interactive Power BI dashboards, DAX, KPIs, data modeling, drill-through, bookmarks, and business reporting.</td>
+</tr>
+
+<tr>
+<td>🐍 <b>Python Programming</b></td>
+<td>Data analysis, automation, Pandas, NumPy, Matplotlib, and solving real-world business problems.</td>
+</tr>
+
+<tr>
+<td>🗄️ <b>SQL</b></td>
+<td>Complex queries, Joins, CTEs, Window Functions, subqueries, database design, and query optimization.</td>
+</tr>
+
+<tr>
+<td>📈 <b>Data Analytics</b></td>
+<td>Exploratory Data Analysis (EDA), statistical analysis, data cleaning, business insights, and decision support.</td>
+</tr>
+
+<tr>
+<td>📚 <b>Mathematics & Statistics</b></td>
+<td>Probability, Linear Algebra, Advanced Statistics, Hypothesis Testing, Regression, and ML foundations.</td>
+</tr>
+
+<tr>
+<td>🧹 <b>Data Preparation</b></td>
+<td>Data preprocessing, feature engineering, missing value handling, encoding, scaling, and transformation.</td>
+</tr>
+
+<tr>
+<td>💼 <b>Business Case Studies</b></td>
+<td>Converting business requirements into KPIs, dashboards, actionable insights, and data-driven recommendations.</td>
+</tr>
+
+<tr>
+<td>🎨 <b>Dashboard Design</b></td>
+<td>Modern, interactive, recruiter-ready dashboards with strong UI/UX principles and storytelling.</td>
+</tr>
+
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Natural Language Processing (NLP)
+- ⚡ Data Structures & Algorithms (DSA)
+- 🧠 Advanced Machine Learning
+- 📊 Advanced Feature Engineering Techniques
+- 🚀 End-to-End AI & Data Science Projects
+
+---
+
 ### 💬 Connect & Collab
 
 <div align="center">
