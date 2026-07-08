@@ -30,12 +30,14 @@
 ```python
 class ShrutiBhawsar:
     def __init__(self):
-        self.name        = "Shruti Bhawsar"
-        self.role        = "Data Analyst & BI Developer"
-        self.institute   = "Red & White Multimedia Institute — AI, ML & Data Science"
-        self.University  = "BCA student at Swarrnim Startup & Innovation University"
-        self.location    = "Ahmedabad, India"
-        self.pronouns    = "she/her"
+        self.name      = "Shruti Bhawsar"
+        self.role      = "Data Analyst & BI Developer"
+        self.institute = "Red & White Multimedia"
+        self.course    = "AI, ML & Data Science"
+        self.college   = "Swarrnim Startup & Innovation Univ."
+        self.degree    = "BCA Student"
+        self.location  = "Ahmedabad, India"
+        self.pronouns  = "she/her"
 
     def current_focus(self):
         return [
