@@ -17,18 +17,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutiii87)
 <img src="https://komarev.com/ghpvc/?username=shrutiii87&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 
+</div>
 
 ---
 
 ## 🧠 About Me
 
-</td>
-<td>
-<img width="350" height="350" alt="image" align=right src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-</td>
-</tr>
-</table>
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ```python
 class ShrutiBhawsar:
@@ -56,6 +53,14 @@ class ShrutiBhawsar:
 
 me = ShrutiBhawsar()
 ```
+
+</td>
+<td width="35%" valign="top">
+<img width="350" height="350" alt="image" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## ⚡ Tech Stack
@@ -188,10 +193,11 @@ me = ShrutiBhawsar()
 </tr>
 </table>
 
-
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="165"/>
 
@@ -202,7 +208,6 @@ me = ShrutiBhawsar()
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shrutiii87&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=f4a623&currStreakLabel=00D9FF)
 
 </div>
-
 
 ---
 
