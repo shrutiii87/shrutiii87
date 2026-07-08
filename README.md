@@ -207,43 +207,7 @@ me = ShrutiBhawsar()
 
 </div>
 
-
 ---
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrutiii87&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrutiii87&theme=tokyo-night&hide_border=true&radius=16&bg_color=0D1117&color=7C3AED&line=38BDF8&point=A855F7&area=true&area_color=7C3AED&title_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrutiii87&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutiii87&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutiii87&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutiii87&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrutiii87&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrutiii87&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrutiii87&label=Profile%20Views&style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/followers/shrutiii87?style=for-the-badge&logo=github&color=38BDF8" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/shrutiii87" />
-</p>
 
 ## 📈 Activity Graph
 
