@@ -15,7 +15,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-bhawsar-5030bb37a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutiii87)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrutiii87&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+</p>
 </div>
 
 ---
