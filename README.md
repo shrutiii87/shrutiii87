@@ -207,6 +207,11 @@ me = ShrutiBhawsar()
 
 </div>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutiii87&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutiii87&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📈 Activity Graph
