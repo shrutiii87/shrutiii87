@@ -1,7 +1,5 @@
 <!-- Header Capsule Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruti%20Bhawsar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Insight%20Storyteller&descAlignY=55&descSize=18" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,8:0F172A,18:1E293B,30:312E81,42:4338CA,55:6D28D9,68:8B5CF6,80:A855F7,90:C026D3,100:F472B6&height=250&section=header&text=Shruti%20Bhawsar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Insight%20Storyteller&descAlignY=61&descSize=21"/>
 
 <!-- Typing SVG -->
 <div align="center">
